@@ -1,0 +1,7 @@
+rs 14
+mem 0x80001000
+reg 0 a4
+reg 0 a5
+run 1
+mem 0x80001000
+q

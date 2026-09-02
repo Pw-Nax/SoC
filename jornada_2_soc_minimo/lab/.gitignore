@@ -1,0 +1,16 @@
+vivado_work/
+.Xil/
+*.jou
+*.log
+*.str
+usage_statistics_webtalk.*
+fw/boot.elf
+fw/boot.bin
+# boot.hex NO se ignora acá: en esta jornada viene dado ya compilado (el
+# lab es 100% RTL, no firmware) — hay que trackearlo.
+!fw/boot.hex
+xsim.dir/
+*.vcd
+*.wcfg
+*.pb
+# *.bit
