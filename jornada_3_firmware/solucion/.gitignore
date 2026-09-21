@@ -1,0 +1,12 @@
+fw/*.elf
+fw/*.bin
+fw/*.hex
+sim.vvp
+tb_soc.vcd
+vivado_work/
+.Xil/
+*.jou
+*.log
+*.str
+rpt_*.txt
+usage_statistics_webtalk.*
